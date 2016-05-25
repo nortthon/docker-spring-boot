@@ -1,6 +1,6 @@
 # Docker Spring Boot Application
 
-## Start a sprong-boot application
+## Start a spring-boot application
     docker run \
         --name spring-boot \
         -p 8080:8080 \
