@@ -3,7 +3,7 @@ MAINTAINER Lucas Augusto <nortthon@gmail.com>
 
 ENV FILE_NAME ""
 
-mkdir /app
+RUN mkdir /app
 
 VOLUMES /app
 
