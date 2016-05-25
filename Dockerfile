@@ -5,7 +5,7 @@ ENV FILE_NAME ""
 
 RUN mkdir /app
 
-VOLUMES /app
+VOLUME /app
 
 EXPOSE 8080
 
