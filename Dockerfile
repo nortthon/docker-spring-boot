@@ -1,4 +1,4 @@
-FROM java:8-jdk
+FROM java:8-jre
 MAINTAINER Lucas Augusto <nortthon@gmail.com>
 
 ENV FILE_NAME ""
